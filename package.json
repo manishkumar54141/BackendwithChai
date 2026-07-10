@@ -1,0 +1,16 @@
+{
+  "name": "foldernew",
+  "version": "1.0.0",
+  "description": "\"chai waala ke sath backend\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"javacript\"",
+    "\"backend\"",
+    "\"chai\""
+  ],
+  "author": "\"Manish\"",
+  "license": "ISC"
+}
